@@ -60,14 +60,11 @@ QA is responsible for validating:
 sql-qa-data-validation-project/
 
 database/
-  create_tables.sql
-  insert_data.sql
-
-documentation/
-  qa_test_scenarios.md
 
 queries/
-  basic_queries.sql
-  aggregate_queries.sql
-  data_validation_queries.sql
-  join_queries.sql
+
+documentation/
+
+screenshots/
+
+findings/
