@@ -190,17 +190,31 @@ Customer notifications cannot be delivered.
 **Status:**
 Defect Identified
 
-## Project Structure
+---
 
-```text
+## 📂 Project Structure
+
 sql-qa-data-validation-project/
 
 database/
+- create_tables.sql
+- insert_data.sql
 
 queries/
+- basic_queries.sql
+- aggregate_queries.sql
+- data_validation_queries.sql
+- join_queries.sql
 
 documentation/
+- qa_test_scenarios.md
 
 screenshots/
+- schema
+- query-results
+- findings
 
 findings/
+- validation-findings.md
+
+README.md
