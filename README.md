@@ -132,6 +132,64 @@ Verify aggregate sales calculations using SQL.
 - Test Planning
 - Defect Reporting
 
+  ---
+
+## 📸 Evidence & Findings
+
+As this project progresses, screenshots, query results, validation findings, and defect examples will be documented below.
+
+The goal is not only to demonstrate SQL knowledge, but also to showcase how SQL is used in Quality Assurance to validate requirements, identify defects, and verify data integrity.
+
+### Planned Evidence
+
+- Database Schema Screenshots
+- SQL Query Screenshots
+- Query Result Screenshots
+- Data Validation Results
+- Defect Examples
+- Requirements Validation Examples
+- Business Rule Validation Results
+
+---
+
+## 🐞 Sample Findings Format
+
+### Finding #1: Duplicate Customer Email Detected
+
+**Requirement:**
+Each customer must have a unique email address.
+
+**Expected Result:**
+No duplicate email addresses should exist.
+
+**Actual Result:**
+Multiple customer records were found sharing the same email address.
+
+**Impact:**
+Duplicate communications and inaccurate customer reporting may occur.
+
+**Status:**
+Defect Identified
+
+---
+
+### Finding #2: Missing Customer Email
+
+**Requirement:**
+Customer email is a required field.
+
+**Expected Result:**
+All customer records contain a valid email address.
+
+**Actual Result:**
+One or more customer records were missing an email address.
+
+**Impact:**
+Customer notifications cannot be delivered.
+
+**Status:**
+Defect Identified
+
 ## Project Structure
 
 ```text
