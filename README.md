@@ -86,35 +86,51 @@ Order amounts should accurately reflect sales activity.
 Verify aggregate sales calculations using SQL.
 ---
 
-## Skills Demonstrated
+---
+
+## 🛠 Skills Demonstrated
 
 ### SQL Skills
 
-- SELECT
-- WHERE
-- ORDER BY
-- DISTINCT
-- LIKE
-- BETWEEN
-- COUNT
-- SUM
-- AVG
-- MIN / MAX
+- SELECT Statements
+- Filtering with WHERE
+- Sorting with ORDER BY
+- DISTINCT Queries
+- Wildcard Searches with LIKE
+- Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
 - GROUP BY
 - HAVING
-- JOINs
+- INNER JOINs
+- Data Validation Queries
 
-### QA Skills
+### Quality Assurance Skills
 
 - Backend Data Validation
-- Test Data Review
-- Defect Identification
-- Business Rule Validation
 - Requirements Verification
+- Business Rule Validation
+- Defect Identification
+- Test Scenario Design
+- Root Cause Analysis
 - Data Integrity Testing
 - UAT Support
 
----
+### Tools & Technologies
+
+- SQL
+- MySQL
+- Git
+- GitHub
+- VS Code
+- Excel
+
+### Professional Skills
+
+- Analytical Thinking
+- Problem Solving
+- Stakeholder Communication
+- Documentation
+- Test Planning
+- Defect Reporting
 
 ## Project Structure
 
