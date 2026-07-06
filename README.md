@@ -1,26 +1,25 @@
 # SQL QA Data Validation Project
 
-## Project Overview
+## 🎯 Project Objective
 
-This project demonstrates how SQL can be used in Quality Assurance testing to validate data integrity, verify business rules, identify defects, and support backend testing activities.
+This project demonstrates how SQL can be used in Quality Assurance testing to validate data integrity, verify business rules, identify defects, and support backend testing.
 
-The project simulates an e-commerce application with customers, products, and orders. As a QA Engineer, the goal is to validate that application data is accurate, complete, and aligned with expected business rules.
+The project simulates an e-commerce application with customer, product, and order data. As the QA Engineer, the goal is to use SQL queries to confirm that the database records are accurate, complete, and aligned with expected business requirements.
 
 ---
 
-## Business Scenario
+## 🧩 Business Scenario
 
 An online retail company stores customer, product, and order information in a relational database.
 
-QA is responsible for validating:
+QA is responsible for validating that:
 
-- Customer records
-- Product records
-- Order records
-- Customer-to-order relationships
-- Product-to-order relationships
-- Business rule compliance
-- Data integrity across tables
+- Customer records are complete and accurate
+- Product records contain valid pricing
+- Orders are connected to valid customers
+- Orders are connected to valid products
+- Sales totals are calculated correctly
+- Business rules are followed before release
 
 ---
 
