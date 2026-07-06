@@ -23,6 +23,69 @@ QA is responsible for validating that:
 
 ---
 
+## 🧪 QA Testing Scenarios
+
+The following scenarios simulate common backend validation activities performed by Quality Assurance Engineers.
+
+### Scenario 1: Validate Customer Email Uniqueness
+
+**Requirement:**
+Each customer must have a unique email address.
+
+**Validation Goal:**
+Identify duplicate customer email records.
+
+---
+
+### Scenario 2: Validate Customer Required Fields
+
+**Requirement:**
+All customers must have a first name, last name, and email address.
+
+**Validation Goal:**
+Identify incomplete customer records.
+
+---
+
+### Scenario 3: Validate Product Pricing
+
+**Requirement:**
+Products must have a valid price greater than $0.
+
+**Validation Goal:**
+Identify products with missing or invalid pricing.
+
+---
+
+### Scenario 4: Validate Customer-to-Order Relationships
+
+**Requirement:**
+Every order must belong to a valid customer.
+
+**Validation Goal:**
+Identify orphaned order records.
+
+---
+
+### Scenario 5: Validate Product-to-Order Relationships
+
+**Requirement:**
+Every order must reference a valid product.
+
+**Validation Goal:**
+Identify orders linked to invalid products.
+
+---
+
+### Scenario 6: Validate Sales Totals
+
+**Requirement:**
+Order amounts should accurately reflect sales activity.
+
+**Validation Goal:**
+Verify aggregate sales calculations using SQL.
+---
+
 ## Skills Demonstrated
 
 ### SQL Skills
