@@ -218,3 +218,27 @@ findings/
 - validation-findings.md
 
 README.md
+
+---
+
+## 🚀 Future Enhancements
+
+Planned enhancements include:
+
+- Additional data validation scenarios
+- Advanced JOIN queries
+- Subqueries
+- Stored procedures
+- Data quality reporting
+- SQL performance optimization examples
+- Expanded QA validation scenarios
+- Additional defect identification examples
+- Dashboard-style reporting examples
+
+---
+
+## 📌 Project Status
+
+🟢 Active Development
+
+This repository is part of my Quality Assurance portfolio and is being expanded as I continue strengthening my SQL, data validation, backend testing, and Quality Engineering skills.
