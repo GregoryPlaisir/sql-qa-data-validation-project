@@ -87,6 +87,22 @@ This project simulates an e-commerce application and demonstrates how a QA Engin
 
 ---
 
+# Agile Project Management
+
+This project follows a Scrum-based Agile workflow using Jira for backlog management, sprint planning, requirements tracking, and defect management.
+
+## Jira Project Overview
+
+![Jira Summary](screenshots/jira/jira-summary-page.png)
+
+---
+
+## Sprint 1 Planning
+
+![Sprint 1](screenshots/jira/sprint-1-backlog.png)
+
+---
+
 ## 📸 Project Screenshots
 
 Screenshots will be added throughout the project to demonstrate:
