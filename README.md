@@ -93,17 +93,17 @@ This project follows a Scrum-based Agile workflow using Jira for backlog managem
 
 ## Jira Project Overview
 
-![Jira Summary](screenshots/jira/jira-summary-page.png)
+![Jira Summary](screenshots/screenshots/jira/jira-summary-page.png)
 
-![Jira Summary](screenshots/jira/jira-summary-page2.png)
+![Jira Summary](screenshots/screenshots/jira/jira-summary-page2.png)
 
 ---
 
 ## Sprint 1 Planning
 
-![Sprint 1](screenshots/jira/sprint-1-backlog.png)
+![Sprint 1](screenshots/screenshots/jira/sprint-1-backlog.png)
 
-![Sprint 1](screenshots/jira/sprint-1-backlog2.png)
+![Sprint 1](screenshots/screenshots/jira/sprint-1-backlog2.png)
 
 ---
 
