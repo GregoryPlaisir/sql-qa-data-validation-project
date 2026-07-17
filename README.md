@@ -47,6 +47,46 @@ This project simulates an e-commerce application and demonstrates how a QA Engin
 
 ---
 
+# Customer Order Management System QA Portfolio
+
+## Application Under Test
+
+### Dashboard
+
+![Dashboard](screenshots/application/dashboard-page.png)
+
+---
+
+### Login
+
+![Login](screenshots/application/login-page.png)
+
+---
+
+### Customer Management
+
+![Customer Management](screenshots/application/customers-page.png)
+
+---
+
+### Product Management
+
+![Product Management](screenshots/application/products-page.png)
+
+---
+
+### Order Management
+
+![Order Management](screenshots/application/orders-page.png)
+
+---
+
+### Reporting & Analytics
+
+![Reporting](screenshots/application/reports-page.png)
+
+---
+
 ## 📸 Project Screenshots
 
 Screenshots will be added throughout the project to demonstrate:
