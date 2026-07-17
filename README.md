@@ -94,6 +94,7 @@ This project follows a Scrum-based Agile workflow using Jira for backlog managem
 ## Jira Project Overview
 
 ![Jira Summary](screenshots/jira/jira-summary-page.png)
+![Jira Summary](screenshots/jira/jira-summary-page2.png)
 
 ---
 
